@@ -127,5 +127,7 @@ namespace BlockchainAssignment
             }
             UpdateText("Blockchain is valid");
         }
-    }
+    } 
+
+    // Change
 }
